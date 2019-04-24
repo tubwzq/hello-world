@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Guten Tag!
+
+Das Wetter heute in Berlin ist sehr warm!
